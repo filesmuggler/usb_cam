@@ -1,3 +1,4 @@
+<!-- example -->
 <launch>
   <arg name="video_feed" default="/dev/video0"/>
 
